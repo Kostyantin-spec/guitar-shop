@@ -1,0 +1,62 @@
+ [
+    {
+        "id": "el1",
+        "name":"IBANEZ GRG121DX-BKF",
+        "img": "https://www.muztorg.ru/files/5zk/jmc/q7y/18o/ccs/00s/kks/cgw/g/5zkjmcq7y18occs00skkscgwg.jpg",
+        "price": 26800
+    },
+    {
+        "id": "el2",
+        "name":"IBANEZ GRG121DX-BKF",
+        "img": "https://www.muztorg.ru/files/bd9/v4j/u4m/1w0/4o4/k4c/848/4ok/8/bd9v4ju4m1w04o4k4c8484ok8.jpg",
+        "price": 13300
+    },
+    {
+        "id": "el3",
+        "name":"IBANEZ GRGR131EX-BKF",
+        "img": "https://www.muztorg.ru/files/7vq/y7t/8pk/ccg/ssw/0os/os8/ogc/g/7vqy7t8pkccgssw0osos8ogcg.jpg",
+        "price": 27600
+    },
+    {
+        "id": "el4",
+        "name":"IBANEZ GRGR221PA-AQB",
+        "img": "https://www.muztorg.ru/files/7c6/5h6/bvj/gg0/kos/40c/g40/00c/c/7c65h6bvjgg0kos40cg4000cc.jpg",
+        "price": 14000
+    },
+    {
+        "id": "el5",
+        "name":"ROCKDALE Stars HSS BK",
+        "img": "https://www.muztorg.ru/files/dlt/zu6/fd3/r40/c0g/0sk/0o4/g40/k/dltzu6fd3r40c0g0sk0o4g40k.jpg",
+        "price": 39000
+    },
+    {
+        "id": "el6",
+        "name":"IBANEZ GRG121DX-WNF",
+        "img": "https://www.muztorg.ru/files/khn/fbe/7ej/tsk/kck/c0o/k00/4gk/khnfbe7ejtskkckc0ok004gk.png",
+        "price": 24000
+    },
+    {
+        "id": "el7",
+        "name":"IBANEZ GIO GRG170DX BKN",
+        "img": "https://www.muztorg.ru/files/avx/mxz/pzu/3kg/80k/kw8/wck/4ko/s/avxmxzpzu3kg80kkw8wck4kos.jpg",
+        "price": 30000
+    },
+    {
+        "id": "el8",
+        "name":"IBANEZ GRX40-BKN",
+        "img": "https://www.muztorg.ru/files/7c6/5h6/bvj/gg0/kos/40c/g40/00c/c/7c65h6bvjgg0kos40cg4000cc.jpg",
+        "price": 28000
+    },
+    {
+        "id": "el9",
+        "name":"ROCKDALE Stars HSS SB",
+        "img": "https://www.muztorg.ru/files/dr4/kk8/dnf/nk0/0g8/4kw/0kg/ows/w/dr4kk8dnfnk00g84kw0kgowsw.jpg",
+        "price": 12000
+    },
+    {
+        "id": "el10",
+        "name":"IBANEZ GRX40-CA",
+        "img": "https://www.muztorg.ru/files/2ah/kqj/hv8/yzo/0cc/goo/gsw/o04/4/2ahkqjhv8yzo0ccgoogswo044.jpeg",
+        "price": 23400
+    }
+]
